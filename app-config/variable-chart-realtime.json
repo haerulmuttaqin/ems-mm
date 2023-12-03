@@ -1,0 +1,23 @@
+[
+  {
+    "key": "watt",
+    "label": "Watt",
+    "type": "line",
+    "showValue": false,
+    "endLabel": true
+  },
+  {
+    "key": "va",
+    "label": "Va",
+    "type": "bar",
+    "showValue": true,
+    "endLabel": false
+  },
+  {
+    "key": "kwh_exp",
+    "label": "Kwh Exp",
+    "type": "line",
+    "showValue": true,
+    "endLabel": false
+  }
+]

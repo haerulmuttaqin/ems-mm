@@ -1,0 +1,19 @@
+.chakra-input {
+    border-color: #CBD5E0 !important;
+}
+.chakra-input:hover {
+    border-color: #90a2b4 !important;
+}
+.chakra-input:focus {
+    border-color: #0193C8 !important;
+}
+
+.chakra-numberinput {
+    border-color: #CBD5E0 !important;
+}
+.chakra-numberinput:hover {
+    border-color: #90a2b4 !important;
+}
+.chakra-numberinput:focus {
+    border-color: #0193C8 !important;
+}

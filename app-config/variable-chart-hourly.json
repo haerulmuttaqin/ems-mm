@@ -1,0 +1,14 @@
+[
+  {
+    "key": "watt",
+    "label": "Watt",
+    "type": "line",
+    "showValue": false
+  },
+  {
+    "key": "va",
+    "label": "Va",
+    "type": "bar",
+    "showValue": true
+  }
+]

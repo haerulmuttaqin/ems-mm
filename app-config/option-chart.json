@@ -1,0 +1,14 @@
+[
+    {
+        "key": "chart-0",
+        "title": "Referer of meter group"
+    },
+    {
+        "key": "chart-1",
+        "title": "Trend real-time"
+    },
+    {
+        "key": "chart-2",
+        "title": "Energy consumption hourly"
+    }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "key": "v1",
+    "label": "v1"
+  },
+  {
+    "key": "v2",
+    "label": "v2"
+  },
+  {
+    "key": "v3",
+    "label": "v3"
+  },
+  {
+    "key": "v12",
+    "label": "v12"
+  },
+  {
+    "key": "v23",
+    "label": "v23"
+  },
+  {
+    "key": "v31",
+    "label": "v31"
+  },
+  {
+    "key": "i1",
+    "label": "i1"
+  },
+  {
+    "key": "i2",
+    "label": "i2"
+  },
+  {
+    "key": "i3",
+    "label": "i3"
+  },
+  {
+    "key": "watt",
+    "label": "watt"
+  },
+  {
+    "key": "va",
+    "label": "va"
+  },
+  {
+    "key": "freq",
+    "label": "freq"
+  },
+  {
+    "key": "pf2",
+    "label": "pf2"
+  },
+  {
+    "key": "kwh_exp",
+    "label": "kwh_exp"
+  },
+  {
+    "key": "kwh_imp",
+    "label": "kwh_imp"
+  },
+  {
+    "key": "kvarh_exp",
+    "label": "kvarh_exp"
+  },
+  {
+    "key": "kvarh_imp",
+    "label": "kvarh_imp"
+  },
+  {
+    "key": "thd_v1",
+    "label": "thd_v1"
+  },
+  {
+    "key": "thd_v2",
+    "label": "thd_v2"
+  },
+  {
+    "key": "thd_v3",
+    "label": "thd_v3"
+  },
+  {
+    "key": "thd_i1",
+    "label": "thd_i1"
+  },
+  {
+    "key": "thd_i2",
+    "label": "thd_i2"
+  },
+  {
+    "key": "thd_i3",
+    "label": "thd_i3"
+  }
+]
