@@ -1,0 +1,12 @@
+[
+  {
+    "metergroupid": "G01",
+    "metergroupname": "POWER HOUSE 1 (GD.A)",
+    "num_member": "4"
+  },
+  {
+    "metergroupid": "G02",
+    "metergroupname": "POWER HOUSE 2 (GD.B)",
+    "num_member": "3"
+  }
+]
